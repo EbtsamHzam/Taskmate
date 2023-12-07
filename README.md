@@ -22,4 +22,7 @@ you can mark the task as completed when you click on the check button next to th
 Contributers:Taif Mosa, Rema Amer,shahad manjahey and Ebtsam Hazem
 
 Contact Information:
-email:444807967@kku.edu.sa
+My account:
+
+https://github.com/EbtsamHzam/Taskmate
+email:444811753@kku.edu.sa
